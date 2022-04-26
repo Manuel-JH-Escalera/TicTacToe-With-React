@@ -1,4 +1,36 @@
+body {
+    background-color: grey;
+    
+}
 
+#botonx {
+    background-color: grey;
+    width: 100px;
+    height: 120px;
+}
+
+#botonx:hover {
+    background-color: rgba(128, 128, 128, 0.74);
+    
+}
+
+#botono {
+    background-color: grey;
+    width: 100px;
+    height: 120px;
+}
+
+#botony:hover {
+    background-color: rgba(128, 128, 128, 0.74);
+    
+}
+
+.square {
+    height: 170px;
+    width: 150px;
+    background-color: grey;
+    color: rgb(184, 183, 183);
+}
 /* 
 
     You can write your own styles here...
